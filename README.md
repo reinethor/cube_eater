@@ -1,2 +1,2 @@
 # cube_eater
-Sphere collects cubes.
+Sphere collects
